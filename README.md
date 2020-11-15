@@ -1,4 +1,4 @@
-# physics_lab_bit_mesra
+### physics_lab_bit_mesra
 
 Actually the whole software is around 700MB so it's not possible to upload in github so just open the __pycache__/new_edit.cpython-36.pyc and download the new_edit.cpython-36.pyc file it's around 2kb file :)
 Enjoyyy!!!!
