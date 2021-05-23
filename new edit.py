@@ -34,5 +34,3 @@ else :
     plt.legend()
     plt.grid()
     plt.show()
-        
-    
